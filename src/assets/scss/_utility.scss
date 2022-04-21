@@ -1,0 +1,21 @@
+.text-align-right {
+  text-align: right;
+}
+
+.icon {
+  display: inline-block;
+  line-height: inherit;
+  vertical-align: middle;
+  align-items: center;
+  &.-love {
+    color: red;
+  }
+  &.-twitter {
+    color: #1da1f2;
+  }
+}
+
+#rcc-decline-button {
+  border: 1px red;
+  border-radius: 3px;
+}

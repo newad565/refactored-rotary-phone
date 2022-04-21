@@ -1,0 +1,24 @@
+{
+  "socialIcons": [
+    {
+      "icon": "facebook",
+      "url": "https://www.facebook.com/donboulton"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/boulton3662/"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://twitter.com/donaldboulton"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/channel/UCHED4RFSxXXNGDDvWpgzHXg"
+    },
+    {
+      "icon": "github",
+      "url": "https://github.com/donaldboulton/gatsby-starter-basic-instructions"
+    }
+  ]
+}
